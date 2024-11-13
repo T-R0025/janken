@@ -29,7 +29,7 @@ def janken_main():
     if player_wins > computer_wins:
         print("あなたの総合勝利です！")
     else:
-        print("コンピュータの総合処理です！")
+        print("コンピュータの総合勝利です！")
 
 if __name__ == "__main__":
     janken_main()
